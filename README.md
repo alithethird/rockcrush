@@ -1,4 +1,6 @@
 # rockcrush
+![rockcrush](./rockcrush.png)
+
 
 Time to take back what rockcraft stole from you! 
 Unfortunately the current technology doesn't let you time travel so unfortunately we can only take back the storage space :(.
